@@ -1,6 +1,6 @@
 var angebote = [
 	{	
-		name: "Angebot 1",
+		name: "Angebot 1a",
 		description: "dies ist das erste Angebot",
 		type: "online",
 		cost: "kostenlos"
